@@ -6,7 +6,7 @@ https://t.me/cro_bank
 https://twitter.com/cro_bank
 CROBANK TO THE MOON!
 */
-
+ 
 pragma solidity ^0.7.4;
 
 library SafeMath {
